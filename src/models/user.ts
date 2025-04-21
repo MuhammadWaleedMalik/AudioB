@@ -37,7 +37,7 @@ const schema = new mongoose.Schema(
     },
     credits: {
       type: Number,
-      default: 10,
+      default: 20,
       },
     password: { 
         type: String, 
